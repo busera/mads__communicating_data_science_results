@@ -1,6 +1,4 @@
-# MADS SIADS 523: Communicating Data Science Results - Chicken Kitchen Expansion Project
-
-Final presentation: [SIADS523 - Final Presentation.pdf]()
+# SIADS 523: Communicating Data Science Results - Chicken Kitchen Expansion Project
 
 ## Course Overview
 
@@ -12,36 +10,59 @@ The project centered around a data-driven decision-making scenario for Chicken K
 
 ### Chicken Kitchen Profile
 
-- Positioned as "premium fast casual with great service"
-- Appealed to consumers willing to pay slightly more than budget fast food prices
-- Offered food with "clean" ingredients (e.g., no preservatives)
-- Known for friendly service and delicious taste
-- Successful locations typically in communities that were:
-  - More conservative
-  - Higher income
-  - Younger demographics
-  - More recently developed areas
-- More profitable near upscale fast food restaurants (e.g., Chipotle, CoreLife, Qdoba) than budget options (e.g., McDonald's, Taco Bell)
+Chicken Kitchen positioned itself as "premium fast casual with great service." It appealed to consumers willing to pay a dollar or two more than budget fast food prices for food with "clean" ingredients (e.g., no preservatives), friendly service, and delicious taste. Successful locations tended to be in communities that were more conservative, higher income, younger, and in areas that were more recently built up. Chicken Kitchen locations near other upscale fast food restaurants like Chipotle, CoreLife, and Qdoba were more profitable than those near McDonald's or Taco Bell.
 
 ### Ideal Location Characteristics
 
-Chicken Kitchen performed well in areas with:
-- Recent development
-- Highway proximity
-- Household income above the national median
-- Car-centric culture (as opposed to reliance on public transportation)
-- Potential for continued population growth and development
-- Strong dining-out culture
-- More conservative-leaning demographics
+Chicken Kitchen performed well in locations that were:
+- More newly developed
+- Had highway proximity
+- Had household income above the national median
+- Had a car culture (as opposed to reliance on public transportation)
+- Had room for continued population growth and development
+- Had a dining-out culture
+- Skewed more conservative
 
-## Project Task
+### Project Task
 
-The franchise department of Chicken Kitchen requested assistance in identifying a new location for expansion. The task involved:
+The franchise department of Chicken Kitchen requested assistance in identifying a new location for expansion based on applications from two counties. The task involved:
 
-1. Researching and comparing two counties (one from Michigan and one from another state)
+1. Researching and comparing two counties: one from Michigan and one from another state
 2. Determining which county was more advantageous for expansion
 3. Identifying specific action steps for the organization within the preferred county
 4. Explaining why the other county was rejected
+
+The analysis did not require finding a clear "winner" and "loser." The goal was to effectively communicate the decision-making process to the executive team, considering both immediate expansion potential and long-term growth opportunities.
+
+### Data Analysis Requirements
+
+The project involved using government and proprietary consumer data to analyze the demographics and dynamics within each county. Key considerations included:
+
+- Alignment of county demographics with Chicken Kitchen's target market
+- Potential for at least two locations within the chosen county
+- Evaluation of newly developed areas with highway proximity
+- Assessment of household income relative to the national median
+- Analysis of transportation habits (preference for car culture)
+- Examination of population growth trends and development potential
+- Evaluation of local dining-out culture
+- Consideration of political and cultural leanings
+
+### Chicken Kitchen Branding
+
+The project also considered Chicken Kitchen's branding, notably their pink logo. The specific colors used were:
+
+#### Logo
+![CK Logo](docs/CK_logo.png)
+
+#### Darker Pink of Logo:
+- Hexcode: #AA3660
+- RGB: (170, 54, 96)
+- CMYK: (14, 27, 14, 89)
+
+#### Lighter Pink of Logo:
+- Hexcode: #DE5498
+- RGB: (222, 84, 152)
+- CMYK: (8, 75, 4, 0)
 
 ## Methodology
 
