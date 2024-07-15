@@ -8,9 +8,9 @@ This repository contains the deliverables for the SIADS 523: Communicating Data 
 - [SIADS523 Executive Summary](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2001%20Executive%20Summary.pdf)
 - [SIADS523 Detailed Presentation](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2002%20Detailed%20Presentation.pdf)
 
-## Project Scenario: Chicken Kitchen Expansion
+## Case Study: Chicken Kitchen Expansion
 
-The project centered around a data-driven decision-making scenario for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
+The project centered around a data-driven decision-making case study for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
 
 ### Chicken Kitchen Profile
 
@@ -27,9 +27,9 @@ Chicken Kitchen performed well in locations that were:
 - Had a dining-out culture
 - Skewed more conservative
 
-### Project Task
+### Case Study Requirements
 
-The franchise department of Chicken Kitchen requested assistance in identifying a new location for expansion based on applications from two counties. The task involved:
+The franchise department of Chicken Kitchen requested assistance in identifying a new location for expansion based on applications from two counties. The case study involved:
 
 1. Researching and comparing two counties: one from Michigan and one from another state
 2. Determining which county was more advantageous for expansion
@@ -40,7 +40,7 @@ The analysis did not require finding a clear "winner" and "loser." The goal was 
 
 ### Data Analysis Requirements
 
-The project involved using government and proprietary consumer data to analyze the demographics and dynamics within each county. Key considerations included:
+The case study involved using government and proprietary consumer data to analyze the demographics and dynamics within each county. Key considerations included:
 
 - Alignment of county demographics with Chicken Kitchen's target market
 - Potential for at least two locations within the chosen county
@@ -53,7 +53,7 @@ The project involved using government and proprietary consumer data to analyze t
 
 ### Chicken Kitchen Branding
 
-The project also considered Chicken Kitchen's branding, notably their pink logo. The specific colors used were:
+The case study also considered Chicken Kitchen's branding, notably their pink logo. The specific colors used were:
 
 #### Logo
 ![CK Logo](docs/CK_logo.png)
