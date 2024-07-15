@@ -1,16 +1,12 @@
 # Communicating Data Science Results - Chicken Kitchen Expansion - Case Study
 
-## Course Overview
+## Case Study: Chicken Kitchen Expansion
 
-This repository contains the deliverables for the SIADS 523: Communicating Data Science Results course project. The course focused on developing effective communication skills for data scientists, emphasizing the importance of tailoring content for different audiences and utilizing various communication formats.
+The case study centered around a data-driven decision-making case study for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
 
 **Final presentations** are available here: 
 - [SIADS523 Executive Summary](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2001%20Executive%20Summary.pdf)
 - [SIADS523 Detailed Presentation](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2002%20Detailed%20Presentation.pdf)
-
-## Case Study: Chicken Kitchen Expansion
-
-The project centered around a data-driven decision-making case study for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
 
 ### Chicken Kitchen Profile
 
