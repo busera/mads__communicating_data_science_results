@@ -4,6 +4,9 @@
 
 This repository contains the deliverables for the SIADS 523: Communicating Data Science Results course project. The course focused on developing effective communication skills for data scientists, emphasizing the importance of tailoring content for different audiences and utilizing various communication formats.
 
+## Presentation
+The final presentation is available here: [SIADS523 - Final Presentation](docs/SIADS523 - Final Presentation.pdf)
+
 ## Project Scenario: Chicken Kitchen Expansion
 
 The project centered around a data-driven decision-making scenario for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
