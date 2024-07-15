@@ -1,4 +1,4 @@
-# Communicating Data Science Results - Chicken Kitchen Expansion Case Study
+# Communicating Data Science Results - Chicken Kitchen Expansion - Case Study
 
 ## Course Overview
 
