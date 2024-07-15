@@ -56,7 +56,7 @@ The case study involved using government and proprietary consumer data to analyz
 The case study also considered Chicken Kitchen's branding, notably their pink logo. The specific colors used were:
 
 #### Logo
-![CK Logo](docs/CK_logo.png)
+![CK Logo](resources/CK_logo.png)
 
 #### Darker Pink of Logo:
 - Hexcode: #AA3660
