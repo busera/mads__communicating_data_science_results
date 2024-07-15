@@ -5,8 +5,8 @@
 This repository contains the deliverables for the SIADS 523: Communicating Data Science Results course project. The course focused on developing effective communication skills for data scientists, emphasizing the importance of tailoring content for different audiences and utilizing various communication formats.
 
 **Final presentations** are available here: 
-- [SIADS523 Executive Summary]()
-- [SIADS523 Detailed Presentation]()
+- [SIADS523 Executive Summary](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2001%20Executive%20Summary.pdf)
+- [SIADS523 Detailed Presentation](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2002%20Detailed%20Presentation.pdf)
 
 ## Project Scenario: Chicken Kitchen Expansion
 
@@ -136,8 +136,8 @@ The project resulted in three main deliverables:
 These deliverables were tailored for an audience of the company CEO and their executive team, who, while data-oriented, did not have a background in data science or highly-technical analysis.
 
 **Final presentations** are available here: 
-- [SIADS523 Executive Summary]()
-- [SIADS523 Detailed Presentation]()
+- [SIADS523 Executive Summary](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2001%20Executive%20Summary.pdf)
+- [SIADS523 Detailed Presentation](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2002%20Detailed%20Presentation.pdf)
 
 ## Tools and Technologies Used
 
