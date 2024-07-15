@@ -2,7 +2,7 @@
 
 ## Case Study: Chicken Kitchen Expansion
 
-The case study centered around a data-driven decision-making case study for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise.
+The case study centered around a data-driven decision-making case study for Chicken Kitchen, a premium fast-casual restaurant chain. As a data scientist, I was tasked with analyzing potential expansion locations for the franchise. The focus was on developing effective communication skills for data scientists, emphasizing the importance of tailoring content for different audiences and utilizing various communication formats.
 
 **Final presentations** are available here: 
 - [SIADS523 Executive Summary](https://github.com/busera/mads__communicating_data_science_results/blob/main/reports/SIADS523%2001%20Executive%20Summary.pdf)
